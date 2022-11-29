@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Jake, a robotics and AI graduate and MSc Software Development student at the University of Glasgow
+
+- 🌱 I’m currently learning data structures and algorithms.
+- 👯 I’m looking to collaborate on building education technology.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tontosirikul/)
+
+
 <!--
 **tontosirikul/tontosirikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
