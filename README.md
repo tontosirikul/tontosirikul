@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jake, a robotics and AI graduate and MSc Software Development student at the University of Glasgow
+I'm Jake (He/Him), a robotics and AI graduate and MSc Software Development student at the University of Glasgow
 
 - 🌱 I’m currently learning data structures and algorithms.
 - 👯 I’m looking to collaborate on building education technology.
