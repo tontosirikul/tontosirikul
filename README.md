@@ -6,6 +6,12 @@ I'm Jake (He/Him), a robotics and AI graduate and MSc Software Development stude
 - 👯 I’m looking to collaborate on building education technology.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tontosirikul/)
 
+#### My experiences
+* Software Developer [@SCG](https://www.scg.com/en/01corporate_profile/) - Production Monitory System
+* React Developer [@DDC](https://ddc.moph.go.th/en/) - Covid-19 Vaccine Inventory Management Webapplication
+* Research & Development Software Engineer [@KMITL AIMS Lab](https://www.krai.io/) - Mobile Robot Platform
+
+
 
 <!--
 **tontosirikul/tontosirikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
