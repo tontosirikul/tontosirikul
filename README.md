@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I'm Jake (He/Him), a robotics and AI graduate and MSc Software Development student at the University of Glasgow
+I'm Jake (He/Him), a robotics and AI graduate from Thailand, and MSc Software Development student at the University of Glasgow.
 
 - 🌱 I’m currently learning data structures and algorithms.
-- 👯 I’m looking to collaborate on building education technology.
+- 👯 I’m looking for graduare software engineer job.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tontosirikul/)
 
 #### My experiences
-* Software Developer [@SCG](https://www.scg.com/en/01corporate_profile/) - Production Monitory System
-* React Developer [@DDC](https://ddc.moph.go.th/en/) - Covid-19 Vaccine Inventory Management Webapplication
-* Research & Development Software Engineer [@KMITL AIMS Lab](https://www.krai.io/) - Mobile Robot Platform
+* Software Developer [@SCG](https://www.scg.com/en/01corporate_profile/) - Worked on Production Monitory System
+* React Developer [@DDC](https://ddc.moph.go.th/en/) - Worked on Covid-19 Vaccine Inventory Management Webapplication
+* Research & Development Software Engineer [@KMITL AIMS Lab](https://www.krai.io/) - Work on Mobile Robot Platform
 
 
 
