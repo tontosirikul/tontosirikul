@@ -2,8 +2,8 @@
 
 I'm Jake (He/Him), a robotics and AI graduate from Thailand, and MSc Software Development student at the University of Glasgow.
 
-- 🌱 I’m currently applying data structure and algorithms into problem solving.
-- 👯 I’m looking for graduate software engineer job.
+- 🌱 I’m currently building React Native app.
+- 👯 I’m looking for a graduate software engineer job.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tontosirikul/)
 
 #### My experiences
