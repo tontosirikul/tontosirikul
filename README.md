@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Jake (He/Him), a robotics and AI graduate from Thailand, and MSc Software Development student at the University of Glasgow.
+I'm Jake (He/Him), a robotics and AI graduate from Thailand, and MSc Software Development graduate at the University of Glasgow.
 
-- 🌱 I’m currently building React Native app.
+- 🌱 I’m currently practicing coding interview.
 - 👯 I’m looking for a graduate software engineer job.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tontosirikul/)
 
@@ -11,8 +11,8 @@ I'm Jake (He/Him), a robotics and AI graduate from Thailand, and MSc Software De
 * React Developer [@DDC](https://ddc.moph.go.th/en/) - Worked on Covid-19 Vaccine Inventory Management Webapplication
 * Research & Development Software Engineer [@KMITL AIMS Lab](https://www.krai.io/) - Work on Mobile Robot Platform
 
-
-
+#### Achievement
+* School of Computing Science International Excellence Award, The University of Glasgow, a prestigious £10,000 valued scholarship, for academic excellence during master degree admission.
 <!--
 **tontosirikul/tontosirikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
