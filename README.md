@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jake (He/Him), a robotics and AI graduate from Thailand, and MSc Software Development graduate at the University of Glasgow.
+I'm Jake (He/Him), a MSc Software Development graduate at the University of Glasgow.
 
 - 🌱 I’m currently practicing coding interview.
 - 👯 I’m looking for a graduate software engineer job.
