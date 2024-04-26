@@ -2,7 +2,8 @@
 
 I'm Jake (He/Him), a MSc Software Development graduate at the University of Glasgow.
 
-- 🌱 I’m currently practicing coding interview.
+- 🌱 I’m currently taking a gap year and practicing plastic modelling techniques.
+- 🧐 I'm interested in distributed system topic.
 - 👯 I’m looking for a graduate software engineer job.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tontosirikul/)
 
