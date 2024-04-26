@@ -8,9 +8,8 @@ I'm Jake (He/Him), a MSc Software Development graduate at the University of Glas
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tontosirikul/)
 
 #### My experiences
-* Software Developer [@SCG](https://www.scg.com/en/01corporate_profile/) - Worked on Production Monitory System
-* React Developer [@DDC](https://ddc.moph.go.th/en/) - Worked on Covid-19 Vaccine Inventory Management Webapplication
-* Research & Development Software Engineer [@KMITL AIMS Lab](https://www.krai.io/) - Work on Mobile Robot Platform
+* Software Developer [@SCG](https://www.scg.com/en/01corporate_profile/) - Worked on Production Monitoring System
+* Sofware Developer [@DDC](https://ddc.moph.go.th/en/) - Worked on Covid-19 Vaccine Inventory Management Web-application
 
 #### Achievement
 * School of Computing Science International Excellence Award, The University of Glasgow, a prestigious £10,000 valued scholarship, for academic excellence during master degree admission.
