@@ -2,14 +2,13 @@
 
 I'm Jake (He/Him), a MSc Software Development graduate at the University of Glasgow.
 
-- 🌱 I’m currently taking a gap year and practicing plastic modelling techniques.
+- 🌱 I’m currently taking a gap year before start working at ExxonMobil on October, 2024.
 - 🧐 I'm interested in distributed system topic.
-- 👯 I’m looking for a graduate software engineer job.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tontosirikul/)
 
 #### My experiences
-* Software Developer [@SCG](https://www.scg.com/en/01corporate_profile/) - Worked on Production Monitoring System
-* Sofware Developer [@DDC](https://ddc.moph.go.th/en/) - Worked on Covid-19 Vaccine Inventory Management Web-application
+* Software Developer (Backend) [@ExxonMobil](https://corporate.exxonmobil.com/who-we-are)
+* Ex-Software Developer (Fullstack) [@SCG](https://www.scg.com/en/01corporate_profile/)
 
 #### Achievement
 * School of Computing Science International Excellence Award, The University of Glasgow, a prestigious £10,000 valued scholarship, for academic excellence during master degree admission.
