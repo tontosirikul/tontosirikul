@@ -10,8 +10,6 @@ I'm Jake (He/Him), a MSc Software Development graduate at the University of Glas
 * Software Developer (Backend) [@ExxonMobil](https://corporate.exxonmobil.com/who-we-are)
 * Ex-Software Developer (Fullstack) [@SCG](https://www.scg.com/en/01corporate_profile/)
 
-#### Achievement
-* School of Computing Science International Excellence Award, The University of Glasgow, a prestigious £10,000 valued scholarship, for academic excellence during master degree admission.
 <!--
 **tontosirikul/tontosirikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
