@@ -8,7 +8,7 @@ I'm Jake (He/Him), a MSc Software Development graduate at the University of Glas
 
 #### My experiences
 * Software Developer (Backend) [@ExxonMobil](https://corporate.exxonmobil.com/who-we-are)
-* Ex-Software Developer (Fullstack) [@SCG](https://www.scg.com/en/01corporate_profile/)
+* Ex-Software Developer Intern (Fullstack) [@SCG](https://www.scg.com/en/01corporate_profile/)
 
 <!--
 **tontosirikul/tontosirikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
