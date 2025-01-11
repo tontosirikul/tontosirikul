@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I'm Jake (He/Him), a MSc Software Development graduate at the University of Glasgow.
+I'm Jake (He/Him), a software developer at the largest energy company in fortune 500.
 
-- 🌱 I’m currently taking a gap year before start working at ExxonMobil on October, 2024.
-- 🧐 I'm interested in distributed system topic.
+- 🧐 I'm interested in distributed system and data engineering topic.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tontosirikul/)
 
 #### My experiences
