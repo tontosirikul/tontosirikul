@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jake (He/Him), a software developer at the largest energy company in fortune 500.
+I'm Jake (He/Him), a software developer.
 
 - 🧐 I'm interested in distributed system and data engineering topic.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tontosirikul/)
